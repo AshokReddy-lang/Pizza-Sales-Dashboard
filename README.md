@@ -7,6 +7,7 @@ I developed a comprehensive project  using Microsoft Power BI , SQL Server Manag
 The process involved several stages,including data preprocessing,data cleaning,power querying and data visualization.
 
 ## Pizza Sales Interactive Dashboard
+You can view whole dashboard using slicer or using navigation buttons.Try to make an overview  and interact with the dashboard, to see the insights of each pizza category based on the various categories(Total Revenue,Total number of pizzas sold, Avg pizzas sold by pizza category,daily and monthly trend of pizza sold). 
 
 <a href="https://github.com/AshokReddy-lang/Pizza-Sales-Dashboard/blob/main/Pizza_Sales%20Dashboard%20.pbix">Dashboard</a>
 
