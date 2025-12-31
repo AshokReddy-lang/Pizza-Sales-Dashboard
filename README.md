@@ -6,6 +6,9 @@ The pizza sales is  caluclated inthe year 2015 from jan-15 to dec-15.
 I developed a comprehensive project  using Microsoft Power BI , SQL Server Management Studio 22 , MS Excel  for creating multiple dashbaords and tables to analyze the given data.
 The process involved several stages,including data preprocessing,data cleaning,power querying and data visualization.
 
+## Pizza Sales Interactive Dashboard
+
+
 
 ## Dataset used
 
