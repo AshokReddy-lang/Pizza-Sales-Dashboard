@@ -8,6 +8,8 @@ The process involved several stages,including data preprocessing,data cleaning,p
 
 ## Pizza Sales Interactive Dashboard
 
+<a href="https://github.com/AshokReddy-lang/Pizza-Sales-Dashboard/blob/main/Pizza_Sales%20Dashboard%20.pbix">Dashboard</a>
+
 
 
 ## Dataset used
