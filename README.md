@@ -1,4 +1,4 @@
-#project objective
+# project objective
 The main objective of a pizza sales dashboard is to help business owners make data-driven decisions to increase sales, efficiency, and customer satisfaction.
 The pizza sales is  caluclated inthe year 2015 from jan-15 to dec-15.
 
