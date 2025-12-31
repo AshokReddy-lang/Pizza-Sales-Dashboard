@@ -87,9 +87,17 @@ Lunch-12 P.M. - 1:30 P.M., Dinner-6 P.M. - 8 P.M.
 
 
 
-# Snapshots Of the Pizza sales dashboard
+#
+## Snapshots Of the Pizza sales dashboard
+
+# Home page
 
 <img width="610" height="333" alt="Home page" src="https://github.com/user-attachments/assets/466d9f41-c942-4740-b485-812352231b5f" />
+
+# Best and worst sellers 
+
+<img width="610" height="338" alt="Best and Worst Sellers " src="https://github.com/user-attachments/assets/fd63ec33-c972-4a68-abda-332d2a84a2f1" />
+
 
 
 
