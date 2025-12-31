@@ -11,6 +11,8 @@ The process involved several stages,including data preprocessing,data cleaning,p
 
 <a href="https://github.com/AshokReddy-lang/Pizza-Sales-Dashboard/blob/main/pizza_sales_excel_file.xlsx">Dataset</a>
 
+# Home page
+<a href ="https://github.com/AshokReddy-lang/Pizza-Sales-Dashboard/blob/main/Home%20page.png">Home page</a>
 
 ## Questionsv  On project
 
