@@ -1,4 +1,4 @@
-<img width="102" height="66" alt="image" src="https://github.com/user-attachments/assets/0a8bc428-46da-4bb8-bb3b-d2d000990b56" /># project objective
+# project objective
 The main objective of a pizza sales dashboard is to help business owners make data-driven decisions to increase sales, efficiency, and customer satisfaction.
 The pizza sales is  caluclated inthe year 2015 from jan-15 to dec-15.
 
@@ -10,4 +10,18 @@ The process involved several stages,including data preprocessing,data cleaning,p
 ## Dataset used
 
 <a href="https://github.com/AshokReddy-lang/Pizza-Sales-Dashboard/blob/main/pizza_sales_excel_file.xlsx">Dataset</a>
+
+## Questionsv (KPI'S)
+What is the total revenue generated from pizza sales?
+What is the average number of pizzas per order?
+Is there a noticeable difference between weekday and weekend sales?
+Which day of the week receives the highest number of orders?
+How do pizza orders vary month by month from January to December?
+What percentage of total revenue does each pizza category contribute?
+Which pizza size generates the maximum revenue?
+Which pizzas appear in the maximum number of orders?
+ Why is COUNT(DISTINCT order_id) used to calculate total orders?
+Why is SUM(total_price) used for revenue instead of SUM(quantity)?
+
+
 
