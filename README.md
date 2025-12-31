@@ -14,6 +14,9 @@ The process involved several stages,including data preprocessing,data cleaning,p
 # Home page
 <a href ="https://github.com/AshokReddy-lang/Pizza-Sales-Dashboard/blob/main/Home%20page.png">Home page</a>
 
+# Best and Worst Sellers 
+<a href="https://github.com/AshokReddy-lang/Pizza-Sales-Dashboard/blob/main/Best%20and%20Worst%20Sellers%20.png">Best and worst sellers</a>
+
 ## Questionsv  On project
 
 What is the total revenue generated from pizza sales?
